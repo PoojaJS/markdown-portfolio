@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- [ ] *Biriyani*
+- [ ] _Parotta_
+
+- [ ] **Green Tea**
+- [ ] __Butter Chicken__
+
+- [ ] _Poricha **Kozhinte** Manam_

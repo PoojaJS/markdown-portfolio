@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+<ol>
+ <li> - [ ] good morning</li>
+ <li> - [ ] good afternoon</li>
+ <li> - [ ] good evening</li>
+ <li> - [ ] good night</li>
+  </ol>
+ 
